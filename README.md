@@ -1,1 +1,1 @@
-# AlgoritmosdeGraficaci-n
+# AlgoritmosdeGraficacion
