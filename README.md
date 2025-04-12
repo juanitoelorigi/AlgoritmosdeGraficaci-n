@@ -21,7 +21,7 @@ Dirigido a estudiantes, investigadores y profesionales en áreas como:
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
 - **Visualización**: Chart.js (gráficos dinámicos)
 - **Estructura**: Arquitectura modular con componentes reutilizables
