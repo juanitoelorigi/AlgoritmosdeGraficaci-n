@@ -120,7 +120,7 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 ## Contacto
 Para consultas o sugerencias:
 - Email: morenogjuanma@gmail.com
-- GitHub: @juanitoelorigi
+- GitHub: juanitoelorigi
 - instragram: @jmmzz18
 
 ---
