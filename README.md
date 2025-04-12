@@ -3,7 +3,9 @@
 
 # Simulador de Algoritmos y Métodos Estadísticos
 
-**Un herramienta interactiva para generar números aleatorios, validar distribuciones y aplicar simulaciones de Monte Carlo**
+**Una herramienta interactiva para generar números aleatorios, validar distribuciones y aplicar simulaciones de Monte Carlo**
+
+<img src="img/Home-template.png">
 
 ---
 
