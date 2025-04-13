@@ -31,7 +31,7 @@ Dirigido a estudiantes, investigadores y profesionales en áreas como:
 ---
 
 ## Contenido del repositorio
-### Estructura de carpetas
+### 📁 Estructura de carpetas
 ```
 📦 SRC
 ├── component/
